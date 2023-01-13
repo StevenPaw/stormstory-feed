@@ -16,18 +16,12 @@
     <link rel="icon" type="image/png" sizes="16x16" href="app/client/src/images/favicon-16x16.png">
     <link rel="mask-icon" href="app/client/src/images/safari-pinned-tab.svg" color="#5bbad5">
 
-    <meta property="og:title" content="HW40a - Virtual Queue" />
-    <meta property="og:site_name" content="HW40a - Virtual Queue" />
+    <meta property="og:title" content="Stormstory Feed" />
+    <meta property="og:site_name" content="Stormstory Feed" />
     <meta property="og:type" content="website" />
-    <meta property="og:description" content="Die virtuelle Warteschlange des Halloweenhaus Schmalenbeck">
+    <meta property="og:description" content="Ein Feed von Stormstory - Der Schülerzeitung der Stormarnschule">
     <meta property="og:url" content="$Link" />
-    <meta property="og:image" content="https://i.ibb.co/1QDXbC8/HW40a-Profile-Pic.jpg" />
-    <meta property="og:image:alt" content="Das Logo des Halloweenhaus Schmalenbeck" />
-    <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
     <meta property="og:locale" content="de_DE" />
-    <meta name="twitter:card" content="summary_large_image">
 
     <meta name="msapplication-TileColor" content="#102C4D">
     <meta name="theme-color" media="(prefers-color-scheme: light)" content="#FFFFFF">
