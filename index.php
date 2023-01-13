@@ -30,16 +30,18 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon-32x32.png" />
     <link rel="stylesheet" href="app/client/dist/css/styles.css">
 
-    <script></script>
 </head>
 <body>
     <div class="content_wrap">
 
         <div class="title_wrap">
-            <img class="title_image" src="app/client/src/images/StormstoryLogo.png" alt="Logo des Halloweenhauses">
+            <div class="title_image">
+                <img src="app/client/src/images/StormstoryLogo.png" alt="Logo von Stormstory">
+            </div>
             <h1 class="title">Neues von Stormstory</h1>
             <p>Eure digitale Schülerzeitung</p>
             <p>stormstory.de</p>
+            <img class="header_image" src="app/client/src/images/stormstory_header.png" alt="Header von Stormstory">
         </div>
 
         <div class="rss_wrap">
